@@ -1,0 +1,3 @@
+Kundennummer;Auftragsnummer;L_Voranme;L_Name;L_Straße;L_AdressZusatz;L_PLZ;L_Ort;L_Land;Artikelnummer;EAN;Menge
+1010;AU123;Max;Mustermann;Musterstraße 1;Hinterhof;12345;Musterstadt;DE;A12345;123456789000;1
+1010;AU123;Max;Mustermann;Musterstraße 1;Hinterhof;12345;Musterstadt;DE;A45678;098765431000;2
